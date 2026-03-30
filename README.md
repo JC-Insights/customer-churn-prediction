@@ -113,17 +113,6 @@ This model can help companies:
 
 ---
 
-## 📁 Project Structure
-
-│
-├── data/ # Raw and processed data
-├── notebooks/ # Jupyter notebooks for analysis
-├── src/ # Model scripts
-├── images/ # Visualizations
-└── README.md
-
----
-
 ## ▶️ How to Run
 
 Clone the repository:
@@ -143,6 +132,17 @@ Run the notebook:
 ```bash
 jupyter notebook
 ```
+
+---
+
+## 📁 Project Structure
+
+│  
+├── data/ # Raw and processed data  
+├── notebooks/ # Jupyter notebooks for analysis  
+├── src/ # Model scripts  
+├── images/ # Visualizations  
+└── README.md  
 
 ---
 
