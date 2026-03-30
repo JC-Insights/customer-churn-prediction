@@ -105,6 +105,9 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook
 
+--
+
 ## 📬 Contact
+
 LinkedIn: https://linkedin.com/in/juan-carlos-vm/
 GitHub: https://github.com/JuanCa85
