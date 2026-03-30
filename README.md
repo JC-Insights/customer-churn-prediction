@@ -1,6 +1,6 @@
 # 📊 Customer Churn Prediction (92% Accuracy)
 
-Machine learning project to predict customer churn and identify high-risk segments, enabling data-driven retention strategies.
+Built a machine learning model to predict customer churn with 92% accuracy and identify key behavioral drivers to support data-driven retention strategies.
 
 ---
 
@@ -17,6 +17,28 @@ The objective of this project was to identify customers at risk of leaving and u
 - Predict customer churn using machine learning
 - Identify high-risk customer segments
 - Generate actionable insights to improve retention
+
+---
+
+## 💼 Business Impact
+
+This model enables businesses to:
+
+- Identify high-risk customers before churn happens
+- Prioritize retention efforts based on data-driven insights
+- Potentially reduce churn rate by targeting the most vulnerable segments
+
+By applying this model, companies can improve customer lifetime value and reduce revenue loss.
+
+### 🔍 Key Drivers of Churn
+
+The model identified the most important features influencing churn, including:
+
+- Customer tenure
+- Usage frequency
+- Service engagement
+
+These variables play a critical role in predicting customer behavior.
 
 ---
 
@@ -88,6 +110,17 @@ This model can help companies:
 
 ### Model Performance
 ![Model Performance](images/model_performance.png)
+
+---
+
+## 📁 Project Structure
+
+│
+├── data/ # Raw and processed data
+├── notebooks/ # Jupyter notebooks for analysis
+├── src/ # Model scripts
+├── images/ # Visualizations
+└── README.md
 
 ---
 
