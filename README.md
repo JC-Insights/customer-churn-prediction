@@ -1,12 +1,16 @@
 # 📊 Customer Churn Prediction (92% Accuracy)
 
-Built a machine learning model to predict customer churn with 92% accuracy and identify key behavioral drivers, enabling data-driven retention strategies and reducing potential revenue loss.
+Built a machine learning model to predict customer churn with 92% accuracy, identifying key behavioral drivers and enabling targeted retention strategies to reduce revenue loss.
+
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Model](https://img.shields.io/badge/Model-RandomForest-blue)
+![Accuracy](https://img.shields.io/badge/Accuracy-92%25-brightgreen)
 
 ---
 
 ## 📌 Project Overview
 
-End-to-end machine learning project focused on predicting customer churn and generating actionable business insights.
+End-to-end machine learning project focused on predicting customer churn and translating data into actionable business insights.
 
 ---
 
@@ -23,7 +27,7 @@ The objective of this project was to identify customers at risk of leaving and u
 - Predict customer churn using machine learning
 - Identify high-risk customer segments
 - Generate actionable insights to improve retention
-
+  
 ### 💡 Key Takeaway
 
 Customer engagement and tenure are the strongest predictors of churn, suggesting that early-stage customer experience and continuous interaction are critical for retention.
@@ -77,9 +81,9 @@ These variables play a critical role in predicting customer behavior.
 
 ## 📈 Key Insights
 
-- Customers with low engagement levels showed a significantly higher probability of churn  
-- Certain service usage patterns strongly correlate with retention  
-- Tenure and interaction frequency are key predictors  
+ Customers with low engagement levels are significantly more likely to churn  
+- Early-stage customer behavior strongly influences long-term retention  
+- Usage patterns and interaction frequency are critical indicators of customer loyalty  
 
 ---
 
@@ -88,6 +92,14 @@ These variables play a critical role in predicting customer behavior.
 - ✅ Achieved **92% accuracy** using Random Forest  
 - ✅ Identified high-risk customer segments  
 - ✅ Built a predictive model ready for business application  
+
+---
+
+## 🧩 Recommendations
+
+- Implement early intervention strategies for low-engagement users  
+- Design targeted retention campaigns based on customer behavior  
+- Monitor key churn indicators such as usage frequency and tenure  
 
 ---
 
