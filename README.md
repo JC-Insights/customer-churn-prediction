@@ -1,51 +1,110 @@
-# Predicción de cancelación de clientes (Churn)
+# 📊 Customer Churn Prediction (92% Accuracy)
 
-## Descripción del proyecto
+Machine learning project to predict customer churn and identify high-risk segments, enabling data-driven retention strategies.
 
-En este proyecto se desarrolló un modelo de machine learning para predecir la cancelación de clientes en una empresa de telecomunicaciones.
-Se entrenaron y evaluaron distintos modelos, alcanzando una precisión del 92% con Random Forest. El análisis permitió identificar segmentos de alto riesgo y proponer estrategias de retención.
+---
 
-### Objetivo
+## 🚀 Business Problem
 
-Predecir qué clientes tienen mayor probabilidad de cancelar el servicio.
+Customer churn represents a critical challenge for businesses, directly impacting revenue and growth.
 
-**Herramientas utilizadas**
+The objective of this project was to identify customers at risk of leaving and uncover the key behavioral patterns driving churn.
 
- - Python
- - Pandas
- - Scikit-learn
- - Matplotlib / Seaborn
- - Jupyter Notebook
+---
 
-**Proceso del análisis**
+## 🎯 Objective
 
-1. Limpieza y preparación de datos.
-2. Análisis exploratorio.
-3. Selección de variables relevantes.
-4. Entrenamiento de modelos:
-  - Regresión logística
-  - Random Forest
-5. Evaluación de métricas:
-  - Accuracy
-  - F1-score
-6. Análisis de resultados.
+- Predict customer churn using machine learning
+- Identify high-risk customer segments
+- Generate actionable insights to improve retention
 
-**Resultados principales**
+---
 
-- Modelo Random Forest con 92% de exactitud.
-- Identificación de segmentos de clientes con mayor riesgo.
-- Propuestas de estrategias de retención.
+## 🧠 Approach
 
-**Habilidades demostradas**
+1. Data Cleaning & Preprocessing  
+   - Handled missing values  
+   - Encoded categorical variables  
+   - Normalized numerical features  
 
-- Preparación de datos para ML
-- Entrenamiento de modelos
-- Evaluación de métricas
-- Interpretación de resultados
-- Recomendaciones estratégicas
+2. Exploratory Data Analysis (EDA)  
+   - Analyzed churn distribution  
+   - Identified correlations and trends  
 
-- ## Estructura del repositorio
+3. Model Development  
+   - Logistic Regression  
+   - Random Forest  
+   - Model comparison and tuning  
 
-├── customer-churn-prediction.ipynb  
-├── gym_churn_us.csv  
-└── README.md
+4. Model Evaluation  
+   - Accuracy  
+   - Precision / Recall  
+   - Confusion Matrix  
+
+---
+
+## 📈 Key Insights
+
+- Customers with low engagement levels showed a significantly higher probability of churn  
+- Certain service usage patterns strongly correlate with retention  
+- Tenure and interaction frequency are key predictors  
+
+---
+
+## 🏆 Results
+
+- ✅ Achieved **92% accuracy** using Random Forest  
+- ✅ Identified high-risk customer segments  
+- ✅ Built a predictive model ready for business application  
+
+---
+
+## 💼 Business Impact
+
+This model can help companies:
+
+- Proactively target customers at risk  
+- Optimize retention campaigns  
+- Reduce revenue loss due to churn  
+
+---
+
+## 🛠 Tools & Technologies
+
+- Python (Pandas, NumPy)
+- Scikit-learn
+- Data Visualization (Matplotlib / Seaborn)
+- Jupyter Notebook
+
+---
+
+## 📷 Visualizations
+
+### Churn Distribution
+![Churn Distribution](images/churn_distribution.png)
+
+### Feature Importance
+![Feature Importance](images/feature_importance.png)
+
+### Model Performance
+![Model Performance](images/model_performance.png)
+
+---
+
+## ▶️ How to Run
+
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/customer-churn-prediction.git
+
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+
+3. Run the notebook:
+```bash
+jupyter notebook
+
+## 📬 Contact
+LinkedIn: https://linkedin.com/in/juan-carlos-vm/
+GitHub: https://github.com/JuanCa85
