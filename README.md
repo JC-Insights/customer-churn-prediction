@@ -1,12 +1,14 @@
 # 📊 Customer Churn Prediction (92% Accuracy)
 
+Built a machine learning model to predict customer churn with 92% accuracy, identifying key behavioral drivers and enabling targeted retention strategies to reduce revenue loss.
+
+---
+
 ## ⚡ TL;DR
 
 - Built a churn prediction model with **92% accuracy**
 - Identified key drivers of customer churn
 - Provided actionable recommendations to improve retention
-  
-Built a machine learning model to predict customer churn with 92% accuracy, identifying key behavioral drivers and enabling targeted retention strategies to reduce revenue loss.
 
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![Model](https://img.shields.io/badge/Model-RandomForest-blue)
