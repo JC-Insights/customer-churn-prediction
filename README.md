@@ -50,6 +50,8 @@ This model enables businesses to:
 
 If implemented, this approach can significantly reduce churn rates and protect revenue streams.
 
+This approach helps organizations move from reactive to proactive customer retention strategies. 
+
 ### 🔍 Key Drivers of Churn
 
 The model identified the most important features influencing churn, including:
