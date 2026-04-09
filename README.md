@@ -144,10 +144,10 @@ These visualizations summarize key findings and model performance:
 Top variables driving churn prediction, highlighting the importance of customer engagement and tenure.
 
 ### Feature Importance
-![Feature Importance](https://github.com/JC-Insights/customer-churn-prediction/blob/main/images/feature_importance.png)
+![Feature Importance](https://github.com/JC-Insights/customer-churn-prediction/blob/main/images/churn_feature_importance.png) 
 
 ### Model Performance
-![Model Performance](https://github.com/JC-Insights/customer-churn-prediction/blob/main/images/model_performance.png)
+![Model Performance](https://github.com/JC-Insights/customer-churn-prediction/blob/main/images/churn_model_performance.png)
 
 The model shows strong performance in correctly identifying both churned and retained customers, with minimal misclassification.
 
